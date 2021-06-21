@@ -1,0 +1,15 @@
+Timing
+Visual Fox Pro Installation
+Khepi-Dev Access,QA access,LMS
+
+
+Installed Visual Fox Pro
+Notepadd ++
+SSIS
+Gitbash
+Got database access from asif-Dev server
+
+Rayhan assigned me ssis task today.I am going to do it on sunday.
+
+Knocked Khepi about Dominion Vue Data conversion project for access
+can not clone data from devops
